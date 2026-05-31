@@ -1,3 +1,4 @@
+alert("APP JS BARU BERHASIL DIMUAT");
 async function sendMessage() {
 
   const input = document.getElementById("prompt");
