@@ -67,3 +67,4 @@ async function sendMessage() {
     `;
   }
 }
+document.getElementById("sendBtn").addEventListener("click", sendMessage);
